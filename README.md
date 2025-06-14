@@ -30,12 +30,6 @@
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
-
----
-
 ## 📌 Key Insights
 
 - NSEI and IXIC showed highest volatility in specific months
